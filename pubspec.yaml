@@ -1,0 +1,17 @@
+name: dart_mysql
+version: 0.0.1
+description: A MySQL driver for the Dart programming language.
+homepage: https://github.com/billcoding/dart_mysql
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  collection: ^1.15.0
+  crypto: ^3.0.1
+  logging: ^1.0.1
+  pool: ^1.5.0
+
+dev_dependencies:
+  pedantic: ^1.11.1
+
